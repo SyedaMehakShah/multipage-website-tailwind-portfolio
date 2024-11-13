@@ -8,7 +8,7 @@ const About = () => {
         <div>
           <h1 className="text-4xl font-bold text-white mt-3 mb-5">About me</h1>
           <p className="text-base lg:text-lg">
-            I am a frontend web developer with a strong focus on crafting responsive, user-friendly websites and web applications. I specialize in modern web technologies like HTML, CSS, JavaScript, and TypeScript, and I'm experienced with frameworks like Next.js and styling tools like Tailwind CSS. With a keen eye for detail and a love for clean, efficient code, I strive to create digital experiences that not only look great but are easy to use and accessible on all devices.
+            I am a frontend web developer with a strong focus on crafting responsive, user-friendly websites and web applications. I specialize in modern web technologies like HTML, CSS, JavaScript, and TypeScript, and I&apos;sm experienced with frameworks like Next.js and styling tools like Tailwind CSS. With a keen eye for detail and a love for clean, efficient code, I strive to create digital experiences that not only look great but are easy to use and accessible on all devices.
           </p>
           <div className="flex flex-col mt-8 lg:flex-row">
             <span className="mr-3 font-semibold hover:text-white text-[#ADB7BE] border-b-2 border-purple-600">Skills</span>
